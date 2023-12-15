@@ -1,4 +1,5 @@
-# What Stuff?
+What Stuff?
+===========
 
 This chapter is intended to present a simple list of relevant stuff for CHEER team members.  The stuff are resources, objects, content groupings that the project team has identified as helpful to keep track of.
 
